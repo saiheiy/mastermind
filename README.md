@@ -4,6 +4,8 @@ python mastermind.py
 
 Example:
 
+```
+
 $ python mastermind.py
 enter a pattern of 4 (repeatable) colors out of (r,g,o,y,b,p).  (ie. if (r,p,y,r), then enter "rpyr"): bbpp
 Computer Guess 1:  rrrr
@@ -28,6 +30,7 @@ Computer Guess 10:  bbpp
 Human feedback: 0 right color only, 4 right both color and position
 Computer won:  correct guess=bbpp
 
+```
 
 To run testing scripts:
 
