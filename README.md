@@ -37,3 +37,11 @@ To run testing scripts:
 python randomized_testing.py
 python exhaustive_testing.py
 
+Example:
+
+```
+$ python exhaustive_testing.py 
+Num Tests Passed:  1296
+Num Tests Failed:  0
+
+```
